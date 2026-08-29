@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<rect width="1200" height="760" rx="30" fill="#f8fbfd"/>
+<g transform="translate(520 340)">
+<circle r="175" fill="#b7dff2"/><circle r="120" fill="#d8b26a"/><circle r="72" fill="#183b59"/>
+<g fill="none" stroke="#335f7e" stroke-width="5" opacity=".65"><ellipse rx="300" ry="145"/><ellipse rx="350" ry="190"/></g>
+<path d="M-400 0h110M290 0h110" stroke="#1f7aa8" stroke-width="12"/>
+</g>
+<text x="70" y="645" fill="#10263a" font-family="Arial, sans-serif" font-size="42" font-weight="700">Graphene-coated core–shell nanoparticles</text>
+<text x="72" y="700" fill="#4e6b80" font-family="Arial, sans-serif" font-size="27">Plasmonics · nonlinear optical response · slow light</text>
+</svg>

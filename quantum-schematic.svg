@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset="1" stop-color="#e7f4fb"/></linearGradient></defs>
+<rect width="1400" height="760" rx="34" fill="url(#bg)"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<g transform="translate(170 350)"><circle r="88" fill="#123d60"/><path d="M-48 0h96" stroke="#fff" stroke-width="8"/><text y="145" font-size="28" font-weight="700" fill="#0b1b2a">Pump laser</text></g>
+<path d="M275 350h140" stroke="#2a78a7" stroke-width="7" marker-end="url(#a)"/>
+<g transform="translate(535 350)"><rect x="-85" y="-85" width="170" height="170" rx="22" fill="#2a78a7"/><circle r="46" fill="none" stroke="#fff" stroke-width="7"/><text y="145" font-size="28" font-weight="700" fill="#0b1b2a">Nonlinear cavity</text></g>
+<path d="M640 350h120" stroke="#2a78a7" stroke-width="7"/>
+<g transform="translate(875 350)"><circle cx="-30" cy="-28" r="42" fill="#673ab7"/><circle cx="30" cy="28" r="42" fill="#29b6f6"/><path d="M-5 -5l10 10" stroke="#fff" stroke-width="6"/><text y="145" font-size="28" font-weight="700" fill="#0b1b2a">Entangled photons</text></g>
+<path d="M980 350h120" stroke="#2a78a7" stroke-width="7"/>
+<g transform="translate(1210 350)"><rect x="-75" y="-95" width="150" height="190" rx="26" fill="#17324d"/><path d="M-40 -45h80M-40 0h80M-40 45h80" stroke="#90e0ef" stroke-width="9"/><text y="145" font-size="28" font-weight="700" fill="#0b1b2a">Atomic memory</text></g>
+</g>
+</svg>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fpourkhavari.github.io/sitemap.xml

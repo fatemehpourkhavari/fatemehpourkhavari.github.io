@@ -1,0 +1,15 @@
+{
+  "name": "Fatemeh Pourkhavari \u2014 Academic Website",
+  "short_name": "Fatemeh Pourkhavari",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#173b5b",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
